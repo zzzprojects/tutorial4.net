@@ -38,4 +38,4 @@ Welcome to your new app.
 
 Now, you can see the subtitle of a counter component on a home page.
 
-<img src="https://raw.githubusercontent.com/zzzprojects/Blazor-Tutotrial/master/docs/images/component-parameters.png">
+<img src="https://raw.githubusercontent.com/zzzprojects/tutorial4.net/master/docs/images/component-parameters.png">

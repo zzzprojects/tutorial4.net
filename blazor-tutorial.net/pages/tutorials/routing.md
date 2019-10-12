@@ -83,8 +83,8 @@ Optional parameters aren't supported yet, so two `@page` directives are applied 
 
 The first `@page` directive permits navigation to the component without a parameter. 
 
-<img src="https://raw.githubusercontent.com/zzzprojects/Blazor-Tutotrial/master/docs/images/route-parameter-1.png">
+<img src="https://raw.githubusercontent.com/zzzprojects/tutorial4.net/master/docs/images/route-parameter-1.png">
 
 The second `@page` directive takes the `{text}` route parameter and assigns the value to the Text property.
 
-<img src="https://raw.githubusercontent.com/zzzprojects/Blazor-Tutotrial/master/docs/images/route-parameter-2.png">
+<img src="https://raw.githubusercontent.com/zzzprojects/tutorial4.net/master/docs/images/route-parameter-2.png">
