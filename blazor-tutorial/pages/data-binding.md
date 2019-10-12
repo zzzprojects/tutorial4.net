@@ -8,9 +8,9 @@ In Blazor, you can bind data to both components and DOM elements using the `bind
 In Blazor, you can bind data in the following ways:
 
 <ul>
-	<li><a href="one-way-data-binding">One-way Data Binding</a></li>
-	<li><a href="two-way-data-binding">Two-way Data Binding</a></li>
-    <li><a href="event-binding">Event Binding</a></li>
+	<li><a href="one-way-data-binding.mb">One-way Data Binding</a></li>
+	<li><a href="two-way-data-binding.mb">Two-way Data Binding</a></li>
+    <li><a href="event-binding.mb">Event Binding</a></li>
 </ul>
 
 
