@@ -119,7 +119,7 @@ The `@inherits` directive can be used to provide Blazor with a code-behind exper
 
 ## Dependency Injection
 
-Blazor supports Dependency Injection, and it is one of the technique to isolate logic that is independent of the view, e.g., core business logic, data access logic, etc. Read more about <a href="{{ site.github.url }}/dependency-injection">Dependency Injection in Blazor</a>.
+Blazor supports Dependency Injection, and it is one of the technique to isolate logic that is independent of the view, e.g., core business logic, data access logic, etc. Read more about <a href="dependency-injection.md">Dependency Injection in Blazor</a>.
 
 ## Partial Classes
 
