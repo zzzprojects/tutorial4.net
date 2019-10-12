@@ -1,2 +1,0 @@
-- [Getting Started](overview.md)
-- [Knowledge Base](/knowledge-base)

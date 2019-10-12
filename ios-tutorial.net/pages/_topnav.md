@@ -1,1 +1,0 @@
-- [Getting Started](getting-started/overview.md)
