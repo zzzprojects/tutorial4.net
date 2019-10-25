@@ -1,3 +1,7 @@
+---
+PermaID: 10010019
+---
+
 # NotEqual
 
 You can build an expression tree which contains an inequality comparison using `Expression.NotEqual` method. For example, you have the following code.

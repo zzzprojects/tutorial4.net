@@ -1,3 +1,7 @@
+---
+PermaID: 10000016
+---
+
 # Two-way Data Binding
 
 Blazor also supports two-way data binding by using `bind` attribute. Currently, Blazor supports only the following data types for two-way data binding.

@@ -1,3 +1,7 @@
+---
+PermaID: 10000001	 
+---
+
 # Blazor Components
 
 ## What is a Component

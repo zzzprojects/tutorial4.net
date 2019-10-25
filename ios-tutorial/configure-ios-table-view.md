@@ -1,3 +1,7 @@
+---
+PermaID: 10020010
+---
+
 # How to Configure Table View
 
 The table view is the most common way to show a structured, scrollable list of items and a core competency for an iOS developer. When you see an iOS application showing a scrolling list of items, it is usually a Table View. 

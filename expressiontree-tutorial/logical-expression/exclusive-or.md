@@ -1,3 +1,8 @@
+---
+PermaID: 10010044
+---
+
+
 # ExclusiveOr
 
 You can build an expression tree which contains a bitwise **XOR** operation using `Expression.ExclusiveOr` method. For example, you have the following code.

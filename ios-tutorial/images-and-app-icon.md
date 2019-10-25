@@ -1,3 +1,7 @@
+---
+PermaID: 10020015
+---
+
 # Images & Application Icon
 
 In iOS, all the dimensions for placing any content on the screen is based on points, which map to pixels in the display. 

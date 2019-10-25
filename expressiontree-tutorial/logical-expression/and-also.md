@@ -1,3 +1,8 @@
+---
+PermaID: 10010043
+---
+
+
 # AndAlso
 
 You can build an expression tree using `Expression.AndAlso` method which contains a conditional **AND** operation that evaluates the second operand only if the first operand evaluates to **true**. For example, you have the following code.

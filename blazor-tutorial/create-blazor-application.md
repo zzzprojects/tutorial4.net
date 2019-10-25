@@ -1,3 +1,8 @@
+---
+PermaID: 10000004
+---
+
+
 # Create Blazor Application
 
 Blazor is an experimental .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly. Blazor provides all of the benefits of a client-side web UI framework using .NET on the client and optionally on the server.

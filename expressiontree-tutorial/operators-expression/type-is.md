@@ -1,3 +1,7 @@
+---
+PermaID: 10010054
+---
+
 # TypeIs
 
 You can build an expression tree which checks if an object is compatible with a given type using `Expression.TypeIs` method. For example, you have the following code.

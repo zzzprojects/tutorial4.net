@@ -1,3 +1,8 @@
+---
+PermaID: 10010052
+---
+
+
 # TypeAs
 
 You can build an expression tree which contains an explicit reference or boxing conversion using `Expression.TypeAs` method. For example, you have the following code.

@@ -1,3 +1,8 @@
+---
+PermaID: 10010050
+---
+
+
 # PropertyOrField
 
 You can build an expression tree which contains accessing a given property or field by its name using `Expression.PropertyOrField` method. For example, you have the following code.

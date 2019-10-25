@@ -1,3 +1,7 @@
+---
+PermaID: 10000011
+---
+
 # Lifecycle Methods
 
 The Blazor application provides different synchronous as well as asynchronous lifecycle methods.

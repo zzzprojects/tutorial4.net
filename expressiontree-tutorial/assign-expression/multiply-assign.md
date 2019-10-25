@@ -1,3 +1,7 @@
+---
+PermaID: 10010012
+---
+
 # MultiplyAssign
 
 You can build an expression tree which contains a multiplication assignment operation using `Expression.MultiplyAssign` method. For example, you have the following code.

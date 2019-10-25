@@ -1,3 +1,7 @@
+---
+PermaID: 10020014
+---
+
 # Table View Delegate Behavior
 
 In our demo application, we have provided an implementation for some methods to display data in the table view, mentioned the number of sections and rows, and specify headers and footer information for each section.

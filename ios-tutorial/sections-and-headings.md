@@ -1,3 +1,7 @@
+---
+PermaID: 10020019
+---
+
 # Sections & Headings
 
 A table view is made up of zero or more sections, each with its own rows. Sections are identified by their index number within the table view, and rows are identified by their index number within a section. 

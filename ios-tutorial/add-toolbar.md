@@ -1,3 +1,7 @@
+---
+PermaID: 10020007
+---
+
 # Add a Toolbar
 
 In iOS application, a toolbar appears at the bottom of an app screen and contains buttons for performing actions relevant to the current view or content within it. 

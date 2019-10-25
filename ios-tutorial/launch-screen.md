@@ -1,3 +1,8 @@
+---
+PermaID: 10020016
+---
+
+
 # Launch Screen
 
 A launch screen appears instantly when your app starts up and it is immediately replaced with the first screen of your application, giving the impression that your app is fast and responsive. In XCode, you may have noticed that when you create a project you will have not only the Main.storyboard, but also LaunchScreen.storyboard.

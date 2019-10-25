@@ -1,3 +1,7 @@
+---
+PermaID: 10010006
+---
+
 # Not
 
 You can build an expression tree which contains a bitwise complement operation using `Expression.Not` method. For example, you have the following code.

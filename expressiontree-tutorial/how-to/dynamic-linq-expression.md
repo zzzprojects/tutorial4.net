@@ -1,3 +1,8 @@
+---
+PermaID: 10010032
+---
+
+
 # Dynamic LINQ Expression
 
 In LINQ, expression trees are used to represent structured queries that target sources of data that implement IQueryable<T>. 

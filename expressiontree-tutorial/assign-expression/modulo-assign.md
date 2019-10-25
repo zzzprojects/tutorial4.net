@@ -1,3 +1,7 @@
+---
+PermaID: 10010011
+---
+
 # ModuloAssign
 
 You can build an expression tree which contains a remainder assignment operation using `Expression.ModuloAssign` method. For example, you have the following code.

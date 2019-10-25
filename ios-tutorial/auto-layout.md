@@ -1,3 +1,7 @@
+---
+PermaID: 10020009
+---
+
 # Create iOS UI with Auto Layout
 
 When you create your iOS application, it must be able to run on many different devices. The iOS 11 operating system runs on the iPhone 5S and later, various iPad Airs, iPad minis, iPad Pros, and even the sixth-generation iPod Touch.

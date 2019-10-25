@@ -1,3 +1,7 @@
+---
+PermaID: 10020006
+---
+
 # Add iOS Table View and Data Source
 
 In Xcode, there is a project template option called the Master-Detail App, which already includes a configured table view, but it has a lot of other functionality as well. Here we will focus only on Table View, so let's create a new blank Single View App and call it **TableViewDemo**

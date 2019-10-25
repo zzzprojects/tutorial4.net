@@ -1,3 +1,7 @@
+---
+PermaID: 10010005
+---
+
 # Negate
 
 You can build an expression tree which contains an arithmetic negation operation using `Expression.Negate` method. For example, you have the following code.

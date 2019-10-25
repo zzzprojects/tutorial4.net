@@ -1,3 +1,7 @@
+---
+PermaID: 10020002
+---
+
 # Action & Outlet
 
 UIViewController can communicate with its UIView directly using Action and Outlet connections.

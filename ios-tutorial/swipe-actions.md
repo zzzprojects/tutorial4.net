@@ -1,3 +1,7 @@
+---
+PermaID: 10020021
+---
+
 # Add Swipe Actions
 
 A swipe gesture occurs when the user moves one or more fingers across the screen in a specific horizontal or vertical direction. In our TaskList application we want to add a custom action to each row so we can swipe right to left, have a button appear, and choose the action to complete that task.

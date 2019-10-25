@@ -1,3 +1,8 @@
+---
+PermaID: 10010034
+---
+
+
 # Method Access Expression
 
 You can access any method by using `Expression.Call` which creates a MethodCallExpression that represents a call to a method. For example, you have the following code.

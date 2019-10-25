@@ -1,3 +1,7 @@
+---
+PermaID: 10020004
+---
+
 # Add an Alert
 
 Display an alert or action sheet when your app requires additional information or acknowledgment from the user. Alerts and action sheets interrupt your app's normal flow to display a message to the user.

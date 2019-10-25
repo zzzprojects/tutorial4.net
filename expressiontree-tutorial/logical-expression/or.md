@@ -1,3 +1,8 @@
+---
+PermaID: 10010045
+---
+
+
 # Or
 
 You can build an expression tree which contains a bitwise **OR** operation using `Expression.Or` method. For example, you have the following code.

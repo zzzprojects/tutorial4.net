@@ -1,3 +1,7 @@
+---
+PermaID: 10000012
+---
+
 # One-way Data Binding
 
 In other frameworks such as Angular, one-way data binding is also known as interpolation. 

@@ -1,3 +1,7 @@
+---
+PermaID: 10000005
+---
+
 # Create Component from Code Behind
 
 You can create view markup and C# code logic in separate files when creating a Blazor component. 

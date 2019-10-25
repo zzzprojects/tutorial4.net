@@ -1,3 +1,7 @@
+---
+PermaID: 10010014
+---
+
 # Equal
 
 You can build an expression tree which contains an equality comparison using `Expression.Equal` method. For example, you have the following code.

@@ -1,3 +1,7 @@
+---
+PermaID: 10010008
+---
+
 # AddAssign
 
 You can build an expression tree which contains an addition assignment operation that does not have overflow checking using `Expression.AddAssign` method. For example, you have the following code.

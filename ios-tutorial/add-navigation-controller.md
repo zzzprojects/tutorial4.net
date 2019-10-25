@@ -1,3 +1,7 @@
+---
+PermaID: 10020005
+---
+
 # Add Navigation Controller
 
 When your application has multiple View Controllers, then you will also need to handle the navigation between them. If you at our simple demo application in which we have two view controllers and a button that performs a segue from the first to the second. 
